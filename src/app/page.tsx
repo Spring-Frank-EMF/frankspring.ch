@@ -92,7 +92,7 @@ export default async function Home() {
       <Paragraph>
         You can find the source code for this website and other projects on my{' '}
         <SocialLink
-          href="http://github.com/iamapipus/frankspring.ch"
+          href="http://github.com/Spring-Frank-EMF/frankspring.ch"
           icon={GitHubIcon}
           text="GitHub account"
         />
