@@ -81,8 +81,8 @@ export default async function Home() {
         Frank Spring
       </h1>
       <Paragraph className="mt-14">
-        I’m an aspiring software engineer based in the Switzerland. I love to
-        build things, explore the universe, and learn new stuff.
+        I’m an aspiring software engineer based in Switzerland. I love to build
+        things, explore the universe, and learn new stuff.
       </Paragraph>
       <Paragraph>
         This is my personal website where I share my learning journey. Feel free
